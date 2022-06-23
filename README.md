@@ -1,3 +1,9 @@
+# First Time Setup
+
+After creating a new project based on this template, run immediately run `tools/initialize-project.sh` **before doing anything else**.
+It will delete unnecessary placeholder files, configure `CMakeLists.txt` with your project name, and update this README.
+
+---
 # Project Title
 
 Project description.

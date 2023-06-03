@@ -10,6 +10,10 @@ Project description.
 
 ## Pitchfork Layout
 
+<details>
+
+<summary>Click to expand...</summary>
+
 This project follows [The Pitchfork Layout](https://api.csswg.org/bikeshed/?force=1&url=https://raw.githubusercontent.com/vector-of-bool/pitchfork/develop/data/spec.bs).
 
 >PFL prescribes several directories that should appear at the root of the project tree. Not all of the directories are required, but they have an assigned purpose, and no other directory in the filesystem may assume the role of one of these directories. That is, these directories must be the ones used if their purpose is required.
@@ -37,3 +41,5 @@ This project follows [The Pitchfork Layout](https://api.csswg.org/bikeshed/?forc
 >[`docs/`](docs/README.md): Directory for project documentation.
 >
 >[`libs/`](libs/README.md): Directory for main project submodules.
+
+</details>

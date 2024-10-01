@@ -8,7 +8,7 @@ WD="$(dirname "${BASH_SOURCE[0]}")/../build"
 
 FROM_SCRATCH=0
 UNIT_TESTS=0
-CMAKE_ARGS=()
+CMAKE_ARGS=(-DCMAKE_EXPORT_COMPILE_COMMANDS=ON)
 MAKE_ARGS=()
 
 function usage() {
